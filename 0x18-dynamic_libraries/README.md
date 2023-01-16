@@ -1,1 +1,1 @@
-my dynamic readme file. this directory contains dynamic library files
+files containing dynamic libraries
