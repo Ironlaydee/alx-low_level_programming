@@ -1,7 +1,7 @@
 #include "search_algos.h"
 
 /**
- * print_array - Prints the contents of an array.
+ * print_array - script prints the contents of an array.
  * @array: The source of the array to print.
  * @l: The left index of the array.
  * @r: The right index of the array.
@@ -19,7 +19,7 @@ void print_array(int *array, size_t l, size_t r)
 }
 
 /**
- * binary_search_index - Searches a value in a sorted array using \
+ * binary_search_index - Script searches a value in a sorted array using \
  * a binary search.
  * @array: The array to search in.
  * @l: The left index of the array.
@@ -47,7 +47,7 @@ int binary_search_index(int *array, size_t l, size_t r, int value)
 }
 
 /**
- * binary_search - Searches a value in a sorted array using a binary search.
+ * binary_search - Script searches a value in a sorted array using a binary search.
  * @array: The array to search in.
  * @size: The length of the array.
  * @value: The value to look for.
